@@ -1,2 +1,2 @@
-# 02465_HEDIA-
+# 02465_HEDIA
 Deep learning Exam projected
