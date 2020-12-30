@@ -1,4 +1,4 @@
-# 0245_Hedia
+# 02456_Hedia
 To Use the files in this projected one neew to follow the instalation guid bellow for 02456_deeplearning_cgm.
 
 Afterwards if one want to run one of the following files the need to to call either example_script or evaluateAll where the one ending on original call calls hedias model and m1-m3 call our models. 
