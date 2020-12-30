@@ -3,6 +3,8 @@ To Use the files in this projected one neew to follow the instalation guid bello
 
 Afterwards if one want to run one of the following files the need to to call either example_script or evaluateAll where the one ending on original call calls hedias model and m1-m3 call our models. 
 
+# Importen
+We are not allowed to share the data if one wish to have the data the need to go https://ohio.qualtrics.com/jfe/form/SV_02QtWEVm7ARIKIl and fill out the application for the data.
 
 # 02456_deeplearning_cgm
 
